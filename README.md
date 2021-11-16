@@ -1,5 +1,10 @@
-### Hi there 👋
+<!-- Title --->
+<h1 align="center">¡Bienvenidos!</h1>
+<h2 align="center">Welcome</h2>
 
+<!-- Body -->
+<p><strong>Sobre mi:</strong> Programadora orientada al diseño web.</p>
+<p><strong>About me:</strong> Programmer oriented to web design.</p>
 <!--
 **AoiMiki/AoiMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
