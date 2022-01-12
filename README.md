@@ -3,8 +3,10 @@
 <h2 align="center">Welcome</h2>
 
 <!-- Body -->
-<p><strong>Sobre mi:</strong> Programadora orientada al diseño web.</p>
-<p><strong>About me:</strong> Programmer oriented to web design.</p>
+<p><strong>Sobre mi:</strong> Programadora orientada al Front-End.</p>
+<p><strong>About me:</strong> Programmer oriented to Front-End.</p>
+<p>✨ Actualmente estudiando FullStack Python.</p>
+<p>✨ Currently studying FullStack Python.</p>
 <!--
 **AoiMiki/AoiMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
